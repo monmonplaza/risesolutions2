@@ -4,19 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monmonplaza/risesolutions.git"
+    "url": "git+https://github.com/monmonplaza/risesolutions2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/monmonplaza/risesolutions/issues"
+    "url": "https://github.com/monmonplaza/risesolutions2/issues"
   },
-  "homepage": "https://github.com/monmonplaza/risesolutions#readme",
+  "homepage": "https://github.com/monmonplaza/risesolutions2",
   "devDependencies": {
-    "gh-pages": "^3.0.0"
+    "gh-pages": "^3.1.0"
   }
 }
